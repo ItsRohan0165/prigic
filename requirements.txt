@@ -1,3 +1,4 @@
 asyncio
 bs4
 requests
+discord
