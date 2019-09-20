@@ -1,0 +1,3 @@
+asyncio
+bs4
+requests
